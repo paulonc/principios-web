@@ -1,0 +1,9 @@
+Para organizar as tarefas, adotaria a metodologia ágil, utilizando o GitHub Projects para separar as atividades de forma que ambas as partes possam acompanhar o que está sendo feito e garantir que as responsabilidades estejam bem definidas. 
+Assim, cada um saberia claramente o que precisa ser feito e poderia revisar o trabalho do outro, promovendo uma maior colaboração.
+
+Na escolha das tecnologias, optaria por Node.js no backend e React no frontend, pois ambos já tem um certo conhecimento nessas ferramentas. 
+Isso não só facilita o trabalho em equipe, mas também nos beneficia de um suporte robusto da comunidade, tornando o desenvolvimento mais ágil e com menos obstáculos.
+
+Quanto às boas práticas, cada um de nós trabalharia em uma branch separada. 
+Após finalizar a tarefa, seria criado um MR, que o outro membro revisaria para garantir a qualidade do código e, se estiver tudo certo, daria o approval para o MR.
+Isso ajuda a manter o código limpo, organizado e com boa qualidade.
