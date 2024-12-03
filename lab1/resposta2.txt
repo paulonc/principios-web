@@ -1,0 +1,8 @@
+O Javascript é uma das principais linguagens de programação para o desenvolvimento web. 
+Ela é essencial para tornar as páginas web interativas e dinâmicas, permitindo funcionalidades como validação de formulários, animações e interações com o usuário.
+
+O CSS é Responsável pela aparência visual de uma aplicação, define como os elementos HTML serão exibidos na tela, 
+controlando layout, cores, fontes e outros aspectos visuais.
+
+O HTML é a linguagem fundamental para a construção de páginas web. 
+Ele define a estrutura básica da página, utilizando elementos como cabeçalhos, parágrafos, listas e links.
