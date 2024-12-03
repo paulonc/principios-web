@@ -1,0 +1,3 @@
+Versionamento de código é o processo de gerenciar as diferentes versões e alterações feitas no código-fonte ao longo do tempo. 
+O versionamento é essencial porque facilita a integração de mudanças feitas por diferentes pessoas, evita conflitos e perdas de código,
+e mantém um histórico claro de todas as alterações realizadas.
