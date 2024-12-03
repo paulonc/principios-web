@@ -1,0 +1,3 @@
+A World Wide Web (WWW) e o HTML transformaram a internet, inicialmente voltada para a disseminação científica, ao permitir o compartilhamento de informações de forma mais eficiente.
+O HTML organizou o conteúdo de maneira estruturada, enquanto a WWW introduziu os hiperlinks, facilitando a navegação entre páginas.
+Juntas, essas tecnologias tornaram a internet mais acessível e atraente, ampliando o acesso à informação e criando um ambiente interativo que conectou pessoas e deu origem a novas plataformas sociais e econômicas.
