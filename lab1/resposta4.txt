@@ -1,0 +1,3 @@
+O JavaScript é essencial no desenvolvimento web moderno porque permite criar sites interativos, dinâmicos e responsivos. 
+Ele facilita a manipulação do DOM, possibilitando atualizações em tempo real sem recarregar a página, o que melhora a experiência do usuário.
+Além disso, com a utilização de frameworks como React, Vue.js e Angular, o JavaScript facilita a construção de interfaces ricas e complexas, essenciais para aplicações web modernas.
